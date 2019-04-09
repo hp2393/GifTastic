@@ -1,0 +1,30 @@
+body {
+    background-image: url('../images/background.gif');
+}
+
+h1 {
+    font-family: fantasy;
+    color: white;
+    font-size: 45px;
+}
+
+label {
+    font-family: fantasy;
+    font-size: 20px;
+    color: white;
+}
+
+.btn-primary {
+    margin-left: 10px;
+    background:black;
+    color: yellow;
+}
+
+.btn-success {
+    background:black;
+    color: yellow;
+}
+
+.form-control {
+    width: 30%;
+}
